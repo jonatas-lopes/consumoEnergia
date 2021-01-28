@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LQoCUrnIwGeSwJF8PAH5GMoqu3dIhOnmKwy1mV8oramoj9z6BOg/orCehzOeknzV0j0hO2gYpm9HH8U7FCLDHw==",
+  "dgSpecHash": "SycXmvQQjFBQMAPxWwq5psuB4vYVYNX12Y8SwosGR6nrD73jI9TI97lWVPEfpBk4zoUxp5s18k14OAQEIAe4wg==",
   "success": true,
-  "projectFilePath": "c:\\workspace\\consumoEnergia\\consumoEnergia.csproj",
+  "projectFilePath": "C:\\workspace\\consumoEnergia\\consumoEnergia.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

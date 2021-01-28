@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\workspace\\consumoEnergia\\consumoEnergia.csproj": {}
+    "C:\\workspace\\consumoEnergia\\consumoEnergia.csproj": {}
   },
   "projects": {
-    "c:\\workspace\\consumoEnergia\\consumoEnergia.csproj": {
+    "C:\\workspace\\consumoEnergia\\consumoEnergia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\workspace\\consumoEnergia\\consumoEnergia.csproj",
+        "projectUniqueName": "C:\\workspace\\consumoEnergia\\consumoEnergia.csproj",
         "projectName": "consumoEnergia",
-        "projectPath": "c:\\workspace\\consumoEnergia\\consumoEnergia.csproj",
+        "projectPath": "C:\\workspace\\consumoEnergia\\consumoEnergia.csproj",
         "packagesPath": "C:\\Users\\Jonatas\\.nuget\\packages\\",
-        "outputPath": "c:\\workspace\\consumoEnergia\\obj\\",
+        "outputPath": "C:\\workspace\\consumoEnergia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jonatas\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,16 @@
+C:\workspace\consumoEnergia\bin\Debug\net5.0\consumoEnergia.exe
+C:\workspace\consumoEnergia\bin\Debug\net5.0\consumoEnergia.deps.json
+C:\workspace\consumoEnergia\bin\Debug\net5.0\consumoEnergia.runtimeconfig.json
+C:\workspace\consumoEnergia\bin\Debug\net5.0\consumoEnergia.runtimeconfig.dev.json
+C:\workspace\consumoEnergia\bin\Debug\net5.0\consumoEnergia.dll
+C:\workspace\consumoEnergia\bin\Debug\net5.0\ref\consumoEnergia.dll
+C:\workspace\consumoEnergia\bin\Debug\net5.0\consumoEnergia.pdb
+C:\workspace\consumoEnergia\obj\Debug\net5.0\consumoEnergia.csprojAssemblyReference.cache
+C:\workspace\consumoEnergia\obj\Debug\net5.0\consumoEnergia.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\consumoEnergia\obj\Debug\net5.0\consumoEnergia.AssemblyInfoInputs.cache
+C:\workspace\consumoEnergia\obj\Debug\net5.0\consumoEnergia.AssemblyInfo.cs
+C:\workspace\consumoEnergia\obj\Debug\net5.0\consumoEnergia.csproj.CoreCompileInputs.cache
+C:\workspace\consumoEnergia\obj\Debug\net5.0\consumoEnergia.dll
+C:\workspace\consumoEnergia\obj\Debug\net5.0\ref\consumoEnergia.dll
+C:\workspace\consumoEnergia\obj\Debug\net5.0\consumoEnergia.pdb
+C:\workspace\consumoEnergia\obj\Debug\net5.0\consumoEnergia.genruntimeconfig.cache
